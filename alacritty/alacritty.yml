@@ -1,0 +1,49 @@
+font:
+  normal:
+    family: Liberation Mono
+    style: Regular
+
+  bold:
+    family: Liberation Mono
+    style: Bold
+
+  italic:
+    family: Liberation Mono
+    style: Italic
+
+  bold_italic:
+    family: Liberation Mono
+    style: Bold Italic
+
+  size: 11
+
+# Colors (Dracula)
+colors:
+  # Default colors
+  primary:
+    background: '#1B1D1E'
+    foreground: '#F8F8F2'
+  # Normal colors
+  normal:
+    black: '#333333'
+    red: '#C4265E'
+    green: '#86B42B'
+    yellow: '#B3B42B'
+    blue: '#6A7EC8'
+    magenta: '#8C6BC8'
+    cyan: '#56ADBC'
+    white: '#E3E3DD'
+  # Bright colors
+  bright:
+    black: '#666666'
+    red: '#F92672'
+    green: '#A6E22E'
+    yellow: '#E2E22E'
+    blue: '#819AFF'
+    magenta: '#AE81FF'
+    cyan: '#66D9EF'
+    white: '#F8F8F2'
+    cyan: "#b5e4f4"
+    white: "#f7f7f7"
+
+background_opacity: 0.9
